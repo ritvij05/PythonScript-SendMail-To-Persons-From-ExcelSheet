@@ -29,3 +29,8 @@ for i in range (sheet.nrows):
 		d.quit()
 	except:
 		print(f'Mail Not Sent To Mail-ID: {Mail-ID}') #reporting if Failed
+
+		
+					##########################################
+					################CODE ENDS ################
+					##########################################
